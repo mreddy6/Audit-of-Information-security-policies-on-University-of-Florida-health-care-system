@@ -1,0 +1,2 @@
+# Audit-of-Information-security-policies-on-University-of-Florida-health-care-system
+Imitated an Audit of the information security program on Security Policies of University of Florida Health Science Center which was in the process of transition from unit-based policies such as SPICE to a comprehensive university policy. We raised few major concerns including website security, cumbersome website navigation, inefficient performance and not in accordance to HIPPA compliance. 
